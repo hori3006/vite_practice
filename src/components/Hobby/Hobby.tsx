@@ -18,7 +18,7 @@ const Hobby = () => {
                     <li className={styles.gameItem}>
                         <h2 className={styles.gameTitle}>ゲーム</h2>
                         <img className={styles.gameImg} src={gameImg}/>
-                        <p className={styles.gameText}>ゲームはシャドウバースにはまっていて、グループが最近ダイヤに初めて行きました。</p>
+                        <p className={styles.gameText}>ゲームはシャドウバースにはまっており、グループが最近ダイヤに初めて行きました。</p>
                     </li>
 
                     <li className={styles.outdoorItem}>
