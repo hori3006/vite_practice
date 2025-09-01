@@ -24,7 +24,7 @@ const Hobby = () => {
                     <li className={styles.outdoorItem}>
                         <h2 className={styles.outdoorTitle}>アウトドア</h2>
                         <img  className={styles.outdoorImg} src={outdoorImg}/>
-                        <p className={styles.outdoorText}>ロードバイクを奮発して購入したので、移動にかなり重宝しています。</p>
+                        <p className={styles.outdoorText}>先日ロードバイクを奮発して購入したので、移動にかなり重宝しています。</p>
                     </li>
                 </ul>
             </nav>
